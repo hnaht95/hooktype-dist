@@ -1,2 +1,3 @@
-# hooktype-dist
-Hook — bộ gõ tiếng Việt cho macOS: bản phát hành và nguồn cập nhật
+# Hook
+
+Bộ gõ tiếng Việt cho macOS. Tải bản mới nhất ở [Releases](https://github.com/hnaht95/hooktype-dist/releases/latest).

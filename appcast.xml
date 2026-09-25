@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Hook</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 25 Sep 2026 08:50:11 +0700</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>Hook 1.1.0</h3>
+<p>Key đổi tên thành **Hook**, theo tên dấu hỏi trong tiếng Anh (&quot;hook above&quot;).</p>
+<li>Cài đặt, gõ tắt và quyền Accessibility được giữ nguyên, không phải thiết lập lại</li>
+<li>Bản mới từ nay phát hành ở github.com/hnaht95/hooktype-dist</li>]]></description>
+            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.1.0/Hook-1.1.0.zip" length="1427800" type="application/octet-stream" sparkle:edSignature="VS36ux4kNIwuxeSAGASHnv14rgE7t8OQJnN6aXoD/hrN4yY42UmhiRqlkEl/+iZrZWbGGwDx0fGIaabgjTH1CA=="/>
+        </item>
+    </channel>
+</rss>
