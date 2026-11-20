@@ -3,19 +3,17 @@
     <channel>
         <title>Hook</title>
         <item>
-            <title>1.3.8</title>
-            <pubDate>Wed, 18 Nov 2026 15:54:19 +0700</pubDate>
-            <sparkle:version>1.3.8</sparkle:version>
-            <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
+            <title>1.3.9</title>
+            <pubDate>Fri, 20 Nov 2026 17:55:30 +0700</pubDate>
+            <sparkle:version>1.3.9</sparkle:version>
+            <sparkle:shortVersionString>1.3.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hook 1.3.8</h3>
-<li>Gõ chữ HOA không còn bị lặp chữ: &quot;LUXXIA&quot; rồi dấu cách ra &quot;LUXIA&quot;, &quot;TESST&quot; ra &quot;TEST&quot; (trước đây giữ nguyên cả hai chữ x, hai chữ s)</li>
-<li>Khi một ô mật khẩu chặn bộ gõ (chế độ nhập an toàn của macOS), biểu tượng Hook trên thanh menu mờ đi và có gạch chéo, hết chặn thì trở lại như cũ</li>
-<li>Menu và Cài đặt ghi đúng tên ứng dụng đang chặn, kể cả khi nó nằm ở phía sau (thường là trình duyệt còn mở trang đăng nhập), kèm nút &quot;Chuyển tới&quot; ứng dụng đó</li>
-<li>Hook tự bật lại việc bắt phím nếu macOS tắt nó, không cần mở lại app</li>
-<li>Gõ không còn bị khựng khi ứng dụng đang dùng bị chậm (Photoshop, Illustrator…): trước đây mỗi lần đặt dấu Hook phải chờ ứng dụng đó trả lời</li>
-<li>Không còn bỏ dở từ đang gõ khi một ứng dụng khác thoáng hiện lên trên (thông báo, ứng dụng trên thanh menu): &quot;Peekcanha&quot; không còn thành &quot;Peekcânh&quot;</li>]]></description>
-            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.8/Hook-1.3.8.zip" length="2110687" type="application/octet-stream" sparkle:edSignature="lVBkoGV8DMixtuXN6cvPa95vkXhMcaIAmhPIhCC/3gJjgFBMrv+lUE7/4ZBh+fKJpWzaE3e5Uq9simlHmep0CA=="/>
+            <description><![CDATA[<h3>Hook 1.3.9</h3>
+<li>Gõ nhanh trong Illustrator không còn mất hoặc đảo chữ (&quot;huowngs&quot; từng ra &quot;hgớ&quot;): Hook giữ cả từ khi đang gõ nhanh rồi gửi một lần</li>
+<li>Chữ viết tắt toàn phụ âm gõ được đ ở bất kỳ đâu: &quot;tddn&quot; ra &quot;tđn&quot;, &quot;vdd&quot; ra &quot;vđ&quot; (trước đây chỉ chữ d đứng đầu mới thành đ)</li>
+<li>Chữ viết tắt như &quot;đc&quot;, &quot;tđn&quot; không còn bị trả lại thành phím gõ khi bật &quot;Tự trả lại từ tiếng Anh&quot;</li>
+<li>&quot;Tự trả lại từ tiếng Anh&quot; nhận ra thêm nhiều từ tiếng Anh thông dụng nhờ danh sách âm tiết tiếng Việt có thật (từ Sen Việt, giấy phép MIT): &quot;keep&quot;, &quot;rose&quot;, &quot;more&quot;, &quot;things&quot;, &quot;wow&quot; giữ nguyên thay vì ra &quot;kêp&quot;, &quot;róe&quot;, &quot;mỏe&quot;, &quot;thíng&quot;, &quot;uơ&quot;</li>]]></description>
+            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.9/Hook-1.3.9.zip" length="2171660" type="application/octet-stream" sparkle:edSignature="4+ccSrimdDWLvV5WXYA1yCMFf2liM7a63S/chh0Cj2FurMgfamIkBLJs0mvloolqQg9B8UeDcAMV9WteaAvdAQ=="/>
         </item>
     </channel>
 </rss>
