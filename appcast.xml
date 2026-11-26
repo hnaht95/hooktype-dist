@@ -3,17 +3,15 @@
     <channel>
         <title>Hook</title>
         <item>
-            <title>1.3.9</title>
-            <pubDate>Fri, 20 Nov 2026 17:55:30 +0700</pubDate>
-            <sparkle:version>1.3.9</sparkle:version>
-            <sparkle:shortVersionString>1.3.9</sparkle:shortVersionString>
+            <title>1.3.10</title>
+            <pubDate>Thu, 26 Nov 2026 14:23:24 +0700</pubDate>
+            <sparkle:version>1.3.10</sparkle:version>
+            <sparkle:shortVersionString>1.3.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Hook 1.3.9</h3>
-<li>Gõ nhanh trong Illustrator không còn mất hoặc đảo chữ (&quot;huowngs&quot; từng ra &quot;hgớ&quot;): Hook giữ cả từ khi đang gõ nhanh rồi gửi một lần</li>
-<li>Chữ viết tắt toàn phụ âm gõ được đ ở bất kỳ đâu: &quot;tddn&quot; ra &quot;tđn&quot;, &quot;vdd&quot; ra &quot;vđ&quot; (trước đây chỉ chữ d đứng đầu mới thành đ)</li>
-<li>Chữ viết tắt như &quot;đc&quot;, &quot;tđn&quot; không còn bị trả lại thành phím gõ khi bật &quot;Tự trả lại từ tiếng Anh&quot;</li>
-<li>&quot;Tự trả lại từ tiếng Anh&quot; nhận ra thêm nhiều từ tiếng Anh thông dụng nhờ danh sách âm tiết tiếng Việt có thật (từ Sen Việt, giấy phép MIT): &quot;keep&quot;, &quot;rose&quot;, &quot;more&quot;, &quot;things&quot;, &quot;wow&quot; giữ nguyên thay vì ra &quot;kêp&quot;, &quot;róe&quot;, &quot;mỏe&quot;, &quot;thíng&quot;, &quot;uơ&quot;</li>]]></description>
-            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.9/Hook-1.3.9.zip" length="2171660" type="application/octet-stream" sparkle:edSignature="4+ccSrimdDWLvV5WXYA1yCMFf2liM7a63S/chh0Cj2FurMgfamIkBLJs0mvloolqQg9B8UeDcAMV9WteaAvdAQ=="/>
+            <description><![CDATA[<h3>Hook 1.3.10</h3>
+<li>Gõ &quot;ươ&quot; chỉ cần một chữ w sau u, giống UniKey: &quot;dduwocj&quot; ra &quot;được&quot;, &quot;huwongs&quot; ra &quot;hướng&quot; (cách gõ cũ &quot;dduowcj&quot;, &quot;dduwowcj&quot; vẫn dùng được)</li>
+<li>Chữ kéo dài giữ dấu đúng chỗ: &quot;hairiiiii&quot; ra &quot;hảiiiiii&quot;, &quot;hoofoooo&quot; ra &quot;hồoooo&quot;, gõ dấu sau cùng như &quot;haiiiir&quot; cũng ra &quot;hảiiii&quot;</li>]]></description>
+            <enclosure url="https://github.com/hnaht95/hooktype-dist/releases/download/v1.3.10/Hook-1.3.10.zip" length="2173779" type="application/octet-stream" sparkle:edSignature="iAkU0IZYgiPyEjfgg5OawF9IjZMrSvzwtUaS2sFsk0E6vgTut1nldpqFUwHuVzQTDJfaH9tbDfLGxtZDcId+BA=="/>
         </item>
     </channel>
 </rss>
